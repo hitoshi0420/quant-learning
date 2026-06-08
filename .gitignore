@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.env
+.secret_key
+data/auth.db
+data/paper_account*.json
+data/paper_trade*.csv
+data/paper_trade*.txt
+data/.sync_state.json
+data/.stock_sync_times.json
+data/cache/
+logs/
+output/
+.DS_Store
+
+# Data files (too large for git)
+data/daily/
+data/financial/
+data/factor_table_full.parquet
+data/backtest_*.csv
+data/factor_*.csv
+data/ic_*.csv
+data/stock_names.parquet
+data/plots/

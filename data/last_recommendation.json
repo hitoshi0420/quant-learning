@@ -1,0 +1,393 @@
+{
+  "success": true,
+  "target_date": "2026-06-05",
+  "picks": [
+    {
+      "code": "600015",
+      "name": "华夏银行",
+      "industry": "J66货币金融服务",
+      "close": 6.83,
+      "score": 1.799,
+      "weight": 0.103,
+      "cluster": "价值防御",
+      "reason": "深度价值，账面市值比(BP)突出，估值具备安全边际",
+      "style": "防御型",
+      "strategy_desc": "低估值+高质量，挖掘被低估的优质资产",
+      "top_factors": [
+        {
+          "factor": "factor_bp",
+          "name": "账面市值比(BP)",
+          "group": "value",
+          "z_score": 2.489,
+          "weight": 0.2,
+          "contribution": 0.4977,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_cfp",
+          "name": "现金市值比(CFP)",
+          "group": "value",
+          "z_score": 1.836,
+          "weight": 0.2,
+          "contribution": 0.3671,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_sp",
+          "name": "收入市值比(SP)",
+          "group": "value",
+          "z_score": 1.931,
+          "weight": 0.1527,
+          "contribution": 0.2948,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "1/2400",
+      "percentile": 100
+    },
+    {
+      "code": "601800",
+      "name": "中国交建",
+      "industry": "E48土木工程建筑业",
+      "close": 6.28,
+      "score": 1.74,
+      "weight": 0.103,
+      "cluster": "价值防御",
+      "reason": "深度价值，账面市值比(BP)突出，估值具备安全边际",
+      "style": "防御型",
+      "strategy_desc": "低估值+高质量，挖掘被低估的优质资产",
+      "top_factors": [
+        {
+          "factor": "factor_bp",
+          "name": "账面市值比(BP)",
+          "group": "value",
+          "z_score": 2.489,
+          "weight": 0.2,
+          "contribution": 0.4977,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_cfp",
+          "name": "现金市值比(CFP)",
+          "group": "value",
+          "z_score": 2.026,
+          "weight": 0.2,
+          "contribution": 0.4053,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_sp",
+          "name": "收入市值比(SP)",
+          "group": "value",
+          "z_score": 2.121,
+          "weight": 0.1527,
+          "contribution": 0.3238,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "2/2400",
+      "percentile": 100
+    },
+    {
+      "code": "601186",
+      "name": "中国铁建",
+      "industry": "E48土木工程建筑业",
+      "close": 6.36,
+      "score": 1.703,
+      "weight": 0.103,
+      "cluster": "价值防御",
+      "reason": "深度价值，账面市值比(BP)突出，估值具备安全边际",
+      "style": "防御型",
+      "strategy_desc": "低估值+高质量，挖掘被低估的优质资产",
+      "top_factors": [
+        {
+          "factor": "factor_bp",
+          "name": "账面市值比(BP)",
+          "group": "value",
+          "z_score": 2.489,
+          "weight": 0.2,
+          "contribution": 0.4977,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_cfp",
+          "name": "现金市值比(CFP)",
+          "group": "value",
+          "z_score": 2.026,
+          "weight": 0.2,
+          "contribution": 0.4053,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_sp",
+          "name": "收入市值比(SP)",
+          "group": "value",
+          "z_score": 2.121,
+          "weight": 0.1527,
+          "contribution": 0.3238,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "3/2400",
+      "percentile": 100
+    },
+    {
+      "code": "300069",
+      "name": "金利华电",
+      "industry": "C38电气机械和器材制造业",
+      "close": 45.33,
+      "score": 2.002,
+      "weight": 0.103,
+      "cluster": "成长进攻",
+      "reason": "高成长标的，PE动量超出市场预期",
+      "style": "进攻型",
+      "strategy_desc": "动量+成长，捕捉趋势和成长机会(含AI/芯片/科技)",
+      "top_factors": [
+        {
+          "factor": "factor_pe_momentum",
+          "name": "PE动量",
+          "group": "momentum",
+          "z_score": 3.103,
+          "weight": 0.4667,
+          "contribution": 1.448,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_yoy_ni",
+          "name": "净利润增速",
+          "group": "growth",
+          "z_score": 2.01,
+          "weight": 0.2,
+          "contribution": 0.402,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_yoy_equity",
+          "name": "净资产增速",
+          "group": "growth",
+          "z_score": -0.457,
+          "weight": 0.3333,
+          "contribution": 0.1523,
+          "direction": "承压"
+        }
+      ],
+      "cluster_rank": "1/2400",
+      "percentile": 100
+    },
+    {
+      "code": "300051",
+      "name": "琏升科技",
+      "industry": "I65软件和信息技术服务业",
+      "close": 10.57,
+      "score": 1.597,
+      "weight": 0.103,
+      "cluster": "成长进攻",
+      "reason": "高成长标的，PE动量超出市场预期",
+      "style": "进攻型",
+      "strategy_desc": "动量+成长，捕捉趋势和成长机会(含AI/芯片/科技)",
+      "top_factors": [
+        {
+          "factor": "factor_pe_momentum",
+          "name": "PE动量",
+          "group": "momentum",
+          "z_score": 1.868,
+          "weight": 0.4667,
+          "contribution": 0.8717,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_yoy_equity",
+          "name": "净资产增速",
+          "group": "growth",
+          "z_score": -2.328,
+          "weight": 0.3333,
+          "contribution": 0.7761,
+          "direction": "承压"
+        },
+        {
+          "factor": "factor_yoy_ni",
+          "name": "净利润增速",
+          "group": "growth",
+          "z_score": -0.255,
+          "weight": 0.2,
+          "contribution": 0.0509,
+          "direction": "承压"
+        }
+      ],
+      "cluster_rank": "2/2400",
+      "percentile": 100
+    },
+    {
+      "code": "603779",
+      "name": "威龙股份",
+      "industry": "C15酒、饮料和精制茶制造业",
+      "close": 8.66,
+      "score": 1.567,
+      "weight": 0.103,
+      "cluster": "成长进攻",
+      "reason": "高成长标的，PE动量超出市场预期",
+      "style": "进攻型",
+      "strategy_desc": "动量+成长，捕捉趋势和成长机会(含AI/芯片/科技)",
+      "top_factors": [
+        {
+          "factor": "factor_pe_momentum",
+          "name": "PE动量",
+          "group": "momentum",
+          "z_score": 3.103,
+          "weight": 0.4667,
+          "contribution": 1.448,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_yoy_equity",
+          "name": "净资产增速",
+          "group": "growth",
+          "z_score": -1.509,
+          "weight": 0.3333,
+          "contribution": 0.5029,
+          "direction": "承压"
+        },
+        {
+          "factor": "factor_yoy_ni",
+          "name": "净利润增速",
+          "group": "growth",
+          "z_score": -1.922,
+          "weight": 0.2,
+          "contribution": 0.3844,
+          "direction": "承压"
+        }
+      ],
+      "cluster_rank": "3/2400",
+      "percentile": 100
+    },
+    {
+      "code": "300122",
+      "name": "智飞生物",
+      "industry": "C27医药制造业",
+      "close": 12.44,
+      "score": 1.167,
+      "weight": 0.13,
+      "cluster": "质量均衡",
+      "reason": "筹码结构良好，净利润率信号积极",
+      "style": "均衡型",
+      "strategy_desc": "盈利+低波+反转+流动性，稳健均衡配置",
+      "top_factors": [
+        {
+          "factor": "factor_np_margin",
+          "name": "净利润率",
+          "group": "profitability",
+          "z_score": -2.206,
+          "weight": 0.2,
+          "contribution": 0.4412,
+          "direction": "承压"
+        },
+        {
+          "factor": "factor_vol_60d",
+          "name": "波动率(60日)",
+          "group": "volatility",
+          "z_score": 1.181,
+          "weight": 0.2016,
+          "contribution": 0.238,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_turnover",
+          "name": "换手率",
+          "group": "liquidity",
+          "z_score": 1.012,
+          "weight": 0.2007,
+          "contribution": 0.2031,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "1/2400",
+      "percentile": 100
+    },
+    {
+      "code": "000813",
+      "name": "德展健康",
+      "industry": "C27医药制造业",
+      "close": 3.1,
+      "score": 1.111,
+      "weight": 0.12,
+      "cluster": "质量均衡",
+      "reason": "筹码结构良好，净利润率信号积极",
+      "style": "均衡型",
+      "strategy_desc": "盈利+低波+反转+流动性，稳健均衡配置",
+      "top_factors": [
+        {
+          "factor": "factor_np_margin",
+          "name": "净利润率",
+          "group": "profitability",
+          "z_score": -2.206,
+          "weight": 0.2,
+          "contribution": 0.4412,
+          "direction": "承压"
+        },
+        {
+          "factor": "factor_abnormal_turn",
+          "name": "异常换手",
+          "group": "liquidity",
+          "z_score": 1.351,
+          "weight": 0.1951,
+          "contribution": 0.2635,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_reversal",
+          "name": "短期反转",
+          "group": "reversal",
+          "z_score": 0.846,
+          "weight": 0.2026,
+          "contribution": 0.1714,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "2/2400",
+      "percentile": 100
+    },
+    {
+      "code": "600199",
+      "name": "金种子酒",
+      "industry": "C15酒、饮料和精制茶制造业",
+      "close": 7.35,
+      "score": 1.075,
+      "weight": 0.129,
+      "cluster": "质量均衡",
+      "reason": "筹码结构良好，净利润率信号积极",
+      "style": "均衡型",
+      "strategy_desc": "盈利+低波+反转+流动性，稳健均衡配置",
+      "top_factors": [
+        {
+          "factor": "factor_np_margin",
+          "name": "净利润率",
+          "group": "profitability",
+          "z_score": -2.206,
+          "weight": 0.2,
+          "contribution": 0.4412,
+          "direction": "承压"
+        },
+        {
+          "factor": "factor_reversal",
+          "name": "短期反转",
+          "group": "reversal",
+          "z_score": 1.604,
+          "weight": 0.2026,
+          "contribution": 0.325,
+          "direction": "看好"
+        },
+        {
+          "factor": "factor_vol_60d",
+          "name": "波动率(60日)",
+          "group": "volatility",
+          "z_score": 0.952,
+          "weight": 0.2016,
+          "contribution": 0.1919,
+          "direction": "看好"
+        }
+      ],
+      "cluster_rank": "3/2400",
+      "percentile": 100
+    }
+  ]
+}
